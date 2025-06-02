@@ -1,5 +1,5 @@
 # Hello! I'm Jeff 👋
-- Machine Learning Specialist 💻
+- LLM / Generative AI / Gen AI Developer 💻
 - Analytics Engineer 📈
 - Python Developer 🐍
 - Web Crawler 🌐

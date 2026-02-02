@@ -1,6 +1,6 @@
 # Hello! I'm Jeff 👋
+- Data / Analytics Engineer 📈
 - LLM / Generative AI / Gen AI Developer 💻
-- Analytics Engineer 📈
 - Python Developer 🐍
 - Web Crawler 🌐
 
